@@ -1,0 +1,4 @@
+[submodule "akretion/overdue-reminder"]
+	path = akretion/overdue-reminder
+	url = git@github.com:akretion/overdue-reminder.git
+	branch = 12.0
