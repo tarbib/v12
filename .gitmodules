@@ -2,3 +2,8 @@
 	path = akretion/overdue-reminder
 	url = git@github.com:akretion/overdue-reminder.git
 	branch = 12.0
+
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 12.0
